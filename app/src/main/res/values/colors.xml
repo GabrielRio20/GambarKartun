@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorRectangle">#324745</color>
+    <color name="colorHair">#FFCD00</color>
+    <color name="colorFace">#D6B567</color>
+    <color name="colorBody">#C1A564</color>
+    <color name="colorRearFoot">#9A8450</color>
+    <color name="colorBlue">#0076D1</color>
+    <color name="colorBg">#B7E6FF</color>
+    <color name="colorBg2">#5CA137</color>
+</resources>
